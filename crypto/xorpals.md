@@ -22,7 +22,7 @@ Brute-force these lines until string with 'dam' is found. (flag format: dam{flag
 \
 \
 python code for brute-forcing:
-\
+
 ```python
 f = open(f"flags.txt", 'r')
 lines = f.readlines()
@@ -40,6 +40,3 @@ for line in lines:
 flag:
 \
 dam{antman_EXPANDS_inside_tHaNoS_never_sinGLE_cHaR_xOr_yeet}
-\
-\
-\
